@@ -1,45 +1,32 @@
-# Bienvenido a mi perfil de GitHub
+# Welcome to my GitHub Profile  ⚙️👨🏻‍💻🚀 
 
-¡Hola! Soy [Tu Nombre], un [Tu profesión o área de especialización] apasionado por [tus intereses]. A continuación, encontrarás información sobre mis habilidades y algunos de los proyectos en los que he trabajado.
+Hello! I'm [Hugo Cruz], a [Full Stack Programmer] passionate about [Web Development]. Below you'll find information about my skills and some of the projects I've worked on.
 
-## Habilidades
+## Skills
 
-### Lenguajes de Programación
-- Python
+### Programming Languages
+- Typescript
 - JavaScript
 - HTML/CSS
-- [Agrega cualquier otro lenguaje que domines]
+- SQL
+- C#
 
-### Frameworks y Tecnologías
-- Django
+### Frameworks and Technologies
+- Nestjs
+- Nextjs
 - React
 - Node.js
 - Git
-- [Agrega cualquier otra tecnología en la que seas competente]
 
-### Herramientas de Desarrollo
+### Development Tools
 - Visual Studio Code
 - Git/GitHub
-- Docker
-- [Agrega cualquier otra herramienta relevante que utilices]
+- Docker 
+- DBeaver
+- Figma
 
-## Proyectos Destacados
 
-### [Nombre del Proyecto 1](Enlace al Repositorio)
-Descripción breve del proyecto y las tecnologías utilizadas.
+Feel free to explore my repositories for more information about my projects and skills!
 
-### [Nombre del Proyecto 2](Enlace al Repositorio)
-Descripción breve del proyecto y las tecnologías utilizadas.
 
-### [Nombre del Proyecto 3](Enlace al Repositorio)
-Descripción breve del proyecto y las tecnologías utilizadas.
-
-¡No dudes en explorar mis repositorios para obtener más información sobre mis proyectos y habilidades!
-
-## Contacto
-
-- Correo electrónico: [tu@email.com]
-- LinkedIn: [Tu Perfil de LinkedIn]
-- [Otros enlaces relevantes, como tu sitio web o perfil de Twitter]
-
-¡Gracias por visitar mi perfil!
+Thanks for visiting my profile!
