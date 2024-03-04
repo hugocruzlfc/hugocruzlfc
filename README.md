@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub Profile  ⚙️ 👨🏻‍💻 🚀 
 
-Hello! I'm [Hugo Cruz], a [Full Stack Programmer] passionate about [Web Development]. Below you'll find information about my skills and some of the projects I've worked on.
+Hello! I'm Hugo Cruz, a Full Stack Programmer passionate about Web Development. Below you'll find information about my skills and some of the projects I've worked on.
 
 ## Skills
 
