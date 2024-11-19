@@ -3,8 +3,7 @@
 Hello! I'm Hugo Cruz, a Software Developer with 10+ years of experience in designing, developing, and maintaining web and mobile
 applications for various industries, including airlines, e-commerce, health, and rental services. Proven ability to
 lead full-stack projects, focusing on creating intuitive, user-friendly, and secure systems. Extensive experience
-with modern technologies like React, Next.js, TypeScript, GraphQL, Prisma, and AWS, as well as backend
-systems with Node.js, NestJS, PostgreSQL, and Docker.. Below you'll find information about my skills and some of the projects I've worked on.
+with modern technologies. Below you'll find information about my skills and some of the projects I've worked on.
 
 ## Skills
 
@@ -21,6 +20,7 @@ systems with Node.js, NestJS, PostgreSQL, and Docker.. Below you'll find informa
 - React
 - Node.js
 - Git
+- AWS
 
 ### Development Tools
 - Visual Studio Code
