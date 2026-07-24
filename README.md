@@ -1,12 +1,12 @@
 # 👋 Welcome to my GitHub Profile ⚙️ 👨🏻‍💻 🚀
 
-Hello! I'm Hugo Cruz, a Software Developer with 10+ years of experience in designing, developing, and maintaining web and mobile
-applications for various industries, including airlines, e-commerce, health, and rental services. Proven ability to
-lead full-stack projects, focusing on creating intuitive, user-friendly, and secure systems. Extensive experience
-with modern technologies. Below you'll find information about my skills and some of the projects I've worked on.
+Hello! I'm Hugo Cruz, a Senior Full Stack Engineer with 10+ years of experience building scalable web platforms, AI-powered products, and operational systems across aviation, healthcare, media, and e-commerce. Specialized in modern React/Next.js and Angular ecosystems, TypeScript, backend architecture with Node.js
+and Python(FastAPI), and AI integrations using AWS Bedrock, LangGraph, and real-time conversational systems. Focused on product quality, developer experience, performance, and scalable frontend/backend architecture.
+
+Below you'll find information about my skills and some of the projects I've worked on.
 
 - 🌍  I'm based in Barcelona
-- ✉️  You can contact me at [hugocruzlfc@gmail.com](mailto:hugocruzlfc@gmail.com)
+- ✉️  You can contact me at [hugocruzdev@gmail.com](mailto:hugocruzdev@gmail.com)
 - 🤝  I'm open to collaborating on NodeJs projects
 
 ## Skills
